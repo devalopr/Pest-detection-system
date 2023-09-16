@@ -4,7 +4,7 @@ An AI drone flies over the field to detect the pest affected areas and report th
 In addition to detection, the app has weather prediction to help the farmer to prepare better, a GPT3 chatbot and a forum to be better informed.
 
 ## App
-![App screenshots](https://github.com/devalopr/Pest-detection-system/blob/main/Android%20app.jpg)
+![App screenshots](./assets/android_app.jpg)
 
 [You can use the app here](https://maxq1017-agri-hack-2023.vercel.app/chat)
 
