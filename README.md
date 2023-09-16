@@ -20,13 +20,17 @@ Clone this repo
 git clone https://github.com/devalopr/Pest-detection-system
 ```
 
-### We trained 3 AI models using YOLOv8 to detect pests. 
+### We trained 3 AI models using YOLOv8 to detect pests. Choose your models based on numebrs.
+```
+1: BPH Burn Model
+2: BPH Pest Model
+3: Wheat Pest Model
+```
 
-Run ```BPH Burn detect.py``` to run the AI model that runs on a drone to detect BPH pest attack
-
-Run ```BPH Pest detect.py``` to run the AI model that detects BPH pest
-
-Run ```WHEAT Pest detect.py``` to run the AI model that detects Wheat midget pest
+Run 
+```
+python main.py
+``` 
 
 
 
