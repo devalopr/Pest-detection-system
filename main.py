@@ -9,7 +9,7 @@ from detect.sources import wheat_source
 from detect.sources import corn_source
 import cv2
 
-class modelSelector:
+class ModelSelector:
     def __init__(self):
         self.start(self.choose_model())
 
@@ -44,4 +44,4 @@ class modelSelector:
 
 
 if __name__=='__main__':
-    modelSelector()
+    ModelSelector()
